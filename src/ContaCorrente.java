@@ -1,4 +1,4 @@
-package bin;
+package src;
 
 public class ContaCorrente extends Conta{
 

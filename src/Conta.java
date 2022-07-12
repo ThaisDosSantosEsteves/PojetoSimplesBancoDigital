@@ -1,4 +1,4 @@
-package bin;
+package src;
 
 public abstract class Conta implements IConta {
 

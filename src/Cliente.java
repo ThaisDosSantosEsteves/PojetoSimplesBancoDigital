@@ -1,11 +1,8 @@
-package bin;
+package src;
 
-import java.util.List;
-
-public class Banco {
+public class Cliente {
 
     private String nome;
-    private List<Conta> contas;
 
     public String getNome() {
         return nome;
@@ -15,3 +12,4 @@ public class Banco {
         this.nome = nome;
     }
 }
+

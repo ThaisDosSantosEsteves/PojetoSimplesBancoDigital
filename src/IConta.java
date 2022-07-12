@@ -1,4 +1,4 @@
-package bin;
+package src;
 
 public interface IConta {
      void sacar(double valor);
